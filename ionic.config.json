@@ -1,0 +1,7 @@
+{
+  "name": "new-labrador-pc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
